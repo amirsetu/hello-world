@@ -9,9 +9,11 @@
     <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
-    <form action="" method=""></form>
-    <input type="text" name="" id="" />
-    <br />
-    <button type="submit">submit</button>
+    <form action="" method="">
+      <label for="first_name">First Name</label>
+      <input type="text" name="" id="first_name" />
+      <br />
+      <button type="submit">submit</button>
+    </form>
   </body>
 </html>
